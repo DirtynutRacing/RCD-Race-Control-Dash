@@ -1,0 +1,46 @@
+RCD - RACE CONTROL DASH - LICENSE
+Copyright (c) 2026 DIRTYNUT. All rights reserved.
+
+This is NOT open-source software. These dashboards are shared free of charge
+for personal use only, under the terms below. By downloading, installing or
+using them you agree to these terms.
+
+1. WHAT YOU MAY DO
+   - Download, install and use the dashboards on your own sim rig for your
+     own personal, non-commercial use.
+   - Change settings or tweak the dashboards for your own private use on your
+     own rig.
+   - Share a LINK to the original post or download page.
+
+2. WHAT YOU MAY NOT DO
+   - Copy, re-upload, redistribute, mirror or share the files (original or
+     modified) with anyone else, in any form or place.
+   - Sell, rent, license, or charge for access to the dashboards or any part
+     of them, including through paid downloads, memberships, Patreon-style
+     tiers, or bundling with any product, hardware or service.
+   - Publish, share or distribute modified versions, or any dashboard, script
+     or design derived from these files.
+   - Use the files, scripts, layouts or designs to make a competing or
+     look-alike dashboard product, free or paid.
+   - Remove or change this license, the copyright notice, or the author credit.
+
+3. THIRD-PARTY COMPONENTS
+   - The bundled Barlow Condensed fonts (in each "_SHFonts" folder) are NOT
+     covered by this license. They are Copyright 2017 The Barlow Project
+     Authors and are licensed under the SIL Open Font License 1.1 (see the
+     OFL.txt file next to the fonts).
+   - SimHub, Conspit, CSD, VoCore, iRacing, Le Mans Ultimate and other names are
+     trademarks of their respective owners. These dashboards are an
+     independent project and are not affiliated with or endorsed by them.
+
+4. NO WARRANTY
+   The dashboards are provided "as is", without warranty of any kind, express
+   or implied, including but not limited to fitness for a particular purpose.
+   In no event shall the author be liable for any claim, damages or other
+   liability arising from the use of, or inability to use, these files.
+
+5. TERMINATION
+   Your permission to use the dashboards ends automatically if you break any
+   of these terms. If that happens, you must delete all copies you have.
+
+For any use not covered here, ask the author first.
