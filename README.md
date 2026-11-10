@@ -135,7 +135,7 @@ The dash uses the **Barlow Condensed** font. Without it SimHub swaps in a defaul
 
 If you already installed them for another DIRTYNUT dash, skip this step.
 
-Fonts included: Barlow Condensed SemiBold, SemiBold Italic, ExtraBold, ExtraBold Italic, Black, Black Italic.
+Fonts included: Barlow Condensed SemiBold, SemiBold Italic, ExtraBold, ExtraBold Italic, Black, Black Italic. They're in the zip's `_SHFonts` folder and also in the [fonts](fonts) folder of this repo if you want to grab them on their own.
 
 ### Step 3 — Start SimHub and assign the dash
 
@@ -180,7 +180,7 @@ This is **not** open-source software. The dashboard is shared free of charge for
 
 ### Third-party components
 
-- The bundled **Barlow Condensed** fonts are **not** covered by this license. They are Copyright 2017 The Barlow Project Authors and licensed under the **SIL Open Font License 1.1** (see `OFL.txt` next to the fonts).
+- The bundled **Barlow Condensed** fonts are **not** covered by this license. They are Copyright 2017 The Barlow Project Authors and licensed under the **SIL Open Font License 1.1** (see [fonts/OFL.txt](fonts/OFL.txt), also next to the fonts in the zip).
 - SimHub, Conspit, CSD, VoCore, iRacing, Le Mans Ultimate and other names are trademarks of their respective owners. This dashboard is an independent project and is not affiliated with or endorsed by them.
 
 Provided "as is", without warranty of any kind. For any use not covered here, ask the author first.
